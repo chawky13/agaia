@@ -1,0 +1,22 @@
+0 verbose cli /home/debian/.nvm/versions/node/v22.12.0/bin/node /home/debian/.nvm/versions/node/v22.12.0/bin/npm
+1 info using npm@10.9.0
+2 info using node@v22.12.0
+3 silly config load:file:/home/debian/.nvm/versions/node/v22.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/debian/projects/educational-content-manager/.npmrc
+5 silly config load:file:/home/debian/.npmrc
+6 silly config load:file:/home/debian/.npm-global/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install"
+9 verbose logfile logs-max:10 dir:/home/debian/.npm/_logs/2025-01-01T23_45_54_824Z-
+10 verbose logfile /home/debian/.npm/_logs/2025-01-01T23_45_54_824Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:1038090240 maxSize:259522560 maxEntrySize:129761280
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 silly audit report null
+16 verbose cwd /home/debian/projects/educational-content-manager
+17 verbose os Linux 6.1.0-28-cloud-amd64
+18 verbose node v22.12.0
+19 verbose npm  v10.9.0
+20 verbose exit 0
+21 info ok
